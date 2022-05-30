@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @VictorChagasS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in security information and software 
+engineering
+- 🌱 I’m currently learning node apis and frontEnd
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me 'you cant'
 
 <!---
 VictorChagasS/VictorChagasS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
