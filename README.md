@@ -2,7 +2,7 @@
 - 👀 I’m interested in security information and software 
 engineering
 - 🌱 I’m currently learning node apis and frontEnd
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me 'you cant'
 
 <!---
